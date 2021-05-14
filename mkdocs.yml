@@ -25,6 +25,7 @@ theme:
     text: Merriweather
 
 nav:
+- index.md
 - Blog: blog/index.md
 - Projects: projects.md
 - Researches: researches/index.md
