@@ -33,6 +33,7 @@ nav:
 
 markdown_extensions:
   - admonition
+  - footnotes
   - pymdownx.highlight
   - pymdownx.snippets
   - pymdownx.superfences
